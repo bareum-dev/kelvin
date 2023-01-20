@@ -2,6 +2,7 @@
    v2.0-modified | 20110126
    License: none (public domain)
 */
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap");
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -332,7 +333,6 @@ textarea {
   padding: 0.2em 0;
 }
 
-.container {
-  background-color: aquamarine;
-  height: 100vh;
+body {
+  font-family: "Poppins", sans-serif;
 }/*# sourceMappingURL=style.css.map */

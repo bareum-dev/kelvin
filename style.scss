@@ -3,7 +3,13 @@
 @import 'styles/main.scss';
 @import 'styles/footer.scss';
 
-.container {
-  background-color: aquamarine;
-  height: 100vh;
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+
+body {
+  font-family: 'Poppins', sans-serif;
 }
+
+// .container {
+//   height: 100vh;
+//   background-color: aqua;
+// }
